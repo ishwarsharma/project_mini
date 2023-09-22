@@ -1,0 +1,3 @@
+[submodule "miniproject/product_management_ui"]
+      path=miniproject/product_management_ui
+      url= https://github.com/ishwarsharma/miniproject.git
